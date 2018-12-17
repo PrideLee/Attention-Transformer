@@ -1,0 +1,1580 @@
+In iteration: 1
+After 0 steps, per token cost is 9.209
+After 10 steps, per token cost is 12.273
+After 20 steps, per token cost is 15.165
+After 30 steps, per token cost is 10.931
+After 40 steps, per token cost is 10.755
+After 50 steps, per token cost is 18.207
+After 60 steps, per token cost is 12.462
+In iteration: 2
+After 70 steps, per token cost is 8.527
+After 80 steps, per token cost is 8.187
+After 90 steps, per token cost is 10.341
+After 100 steps, per token cost is 21.016
+After 110 steps, per token cost is 18.823
+After 120 steps, per token cost is 11.082
+After 130 steps, per token cost is 17.761
+In iteration: 3
+After 140 steps, per token cost is 11.954
+After 150 steps, per token cost is 9.570
+After 160 steps, per token cost is 15.650
+After 170 steps, per token cost is 11.095
+After 180 steps, per token cost is 8.924
+After 190 steps, per token cost is 9.761
+After 200 steps, per token cost is 8.603
+In iteration: 4
+After 210 steps, per token cost is 8.590
+After 220 steps, per token cost is 10.271
+After 230 steps, per token cost is 28.824
+After 240 steps, per token cost is 8.722
+After 250 steps, per token cost is 7.861
+After 260 steps, per token cost is 10.513
+After 270 steps, per token cost is 7.901
+In iteration: 5
+After 280 steps, per token cost is 7.836
+After 290 steps, per token cost is 7.020
+After 300 steps, per token cost is 7.494
+After 310 steps, per token cost is 25.259
+After 320 steps, per token cost is 9.952
+After 330 steps, per token cost is 22.934
+After 340 steps, per token cost is 6.974
+In iteration: 6
+After 350 steps, per token cost is 7.090
+After 360 steps, per token cost is 7.254
+After 370 steps, per token cost is 7.625
+After 380 steps, per token cost is 7.289
+After 390 steps, per token cost is 7.242
+After 400 steps, per token cost is 6.950
+After 410 steps, per token cost is 7.537
+In iteration: 7
+After 420 steps, per token cost is 7.133
+After 430 steps, per token cost is 13.031
+After 440 steps, per token cost is 7.042
+After 450 steps, per token cost is 6.743
+After 460 steps, per token cost is 6.869
+After 470 steps, per token cost is 6.655
+After 480 steps, per token cost is 7.659
+In iteration: 8
+After 490 steps, per token cost is 7.017
+After 500 steps, per token cost is 11.340
+After 510 steps, per token cost is 7.009
+After 520 steps, per token cost is 7.036
+After 530 steps, per token cost is 6.771
+After 540 steps, per token cost is 6.723
+After 550 steps, per token cost is 6.720
+In iteration: 9
+After 560 steps, per token cost is 6.556
+After 570 steps, per token cost is 6.713
+After 580 steps, per token cost is 6.739
+After 590 steps, per token cost is 7.959
+After 600 steps, per token cost is 9.288
+After 610 steps, per token cost is 6.706
+After 620 steps, per token cost is 6.615
+In iteration: 10
+After 630 steps, per token cost is 6.659
+After 640 steps, per token cost is 6.567
+After 650 steps, per token cost is 6.747
+After 660 steps, per token cost is 6.521
+After 670 steps, per token cost is 6.438
+After 680 steps, per token cost is 6.494
+In iteration: 11
+After 690 steps, per token cost is 6.398
+After 700 steps, per token cost is 6.460
+After 710 steps, per token cost is 24.688
+After 720 steps, per token cost is 6.341
+After 730 steps, per token cost is 6.375
+After 740 steps, per token cost is 6.467
+After 750 steps, per token cost is 6.500
+In iteration: 12
+After 760 steps, per token cost is 6.192
+After 770 steps, per token cost is 6.312
+After 780 steps, per token cost is 6.497
+After 790 steps, per token cost is 6.203
+After 800 steps, per token cost is 6.702
+After 810 steps, per token cost is 6.380
+After 820 steps, per token cost is 6.407
+In iteration: 13
+After 830 steps, per token cost is 6.186
+After 840 steps, per token cost is 6.230
+After 850 steps, per token cost is 6.334
+After 860 steps, per token cost is 6.033
+After 870 steps, per token cost is 6.098
+After 880 steps, per token cost is 6.047
+After 890 steps, per token cost is 6.111
+In iteration: 14
+After 900 steps, per token cost is 6.087
+After 910 steps, per token cost is 5.945
+After 920 steps, per token cost is 5.917
+After 930 steps, per token cost is 6.010
+After 940 steps, per token cost is 5.852
+After 950 steps, per token cost is 6.006
+After 960 steps, per token cost is 5.675
+In iteration: 15
+After 970 steps, per token cost is 5.948
+After 980 steps, per token cost is 5.713
+After 990 steps, per token cost is 5.785
+After 1000 steps, per token cost is 5.730
+After 1010 steps, per token cost is 5.683
+After 1020 steps, per token cost is 5.646
+After 1030 steps, per token cost is 5.516
+In iteration: 16
+After 1040 steps, per token cost is 5.526
+After 1050 steps, per token cost is 5.581
+After 1060 steps, per token cost is 5.411
+After 1070 steps, per token cost is 5.482
+After 1080 steps, per token cost is 5.523
+After 1090 steps, per token cost is 5.584
+After 1100 steps, per token cost is 5.479
+In iteration: 17
+After 1110 steps, per token cost is 5.295
+After 1120 steps, per token cost is 5.355
+After 1130 steps, per token cost is 5.332
+After 1140 steps, per token cost is 5.374
+After 1150 steps, per token cost is 5.325
+After 1160 steps, per token cost is 5.191
+After 1170 steps, per token cost is 5.209
+In iteration: 18
+After 1180 steps, per token cost is 5.162
+After 1190 steps, per token cost is 5.136
+After 1200 steps, per token cost is 5.131
+After 1210 steps, per token cost is 5.256
+After 1220 steps, per token cost is 4.999
+After 1230 steps, per token cost is 5.073
+After 1240 steps, per token cost is 5.204
+In iteration: 19
+After 1250 steps, per token cost is 5.183
+After 1260 steps, per token cost is 5.039
+After 1270 steps, per token cost is 5.021
+After 1280 steps, per token cost is 5.000
+After 1290 steps, per token cost is 4.894
+After 1300 steps, per token cost is 4.965
+After 1310 steps, per token cost is 4.847
+In iteration: 20
+After 1320 steps, per token cost is 4.919
+After 1330 steps, per token cost is 4.920
+After 1340 steps, per token cost is 4.784
+After 1350 steps, per token cost is 5.010
+After 1360 steps, per token cost is 4.806
+After 1370 steps, per token cost is 4.698
+In iteration: 21
+After 1380 steps, per token cost is 4.554
+After 1390 steps, per token cost is 4.689
+After 1400 steps, per token cost is 4.794
+After 1410 steps, per token cost is 4.701
+After 1420 steps, per token cost is 4.628
+After 1430 steps, per token cost is 4.660
+After 1440 steps, per token cost is 4.680
+In iteration: 22
+After 1450 steps, per token cost is 4.384
+After 1460 steps, per token cost is 4.424
+After 1470 steps, per token cost is 4.533
+After 1480 steps, per token cost is 4.627
+After 1490 steps, per token cost is 4.521
+After 1500 steps, per token cost is 4.506
+After 1510 steps, per token cost is 4.546
+In iteration: 23
+After 1520 steps, per token cost is 4.430
+After 1530 steps, per token cost is 4.322
+After 1540 steps, per token cost is 4.468
+After 1550 steps, per token cost is 4.217
+After 1560 steps, per token cost is 4.225
+After 1570 steps, per token cost is 4.350
+After 1580 steps, per token cost is 4.457
+In iteration: 24
+After 1590 steps, per token cost is 4.115
+After 1600 steps, per token cost is 4.031
+After 1610 steps, per token cost is 4.128
+After 1620 steps, per token cost is 4.083
+After 1630 steps, per token cost is 4.175
+After 1640 steps, per token cost is 4.149
+After 1650 steps, per token cost is 4.294
+In iteration: 25
+After 1660 steps, per token cost is 3.979
+After 1670 steps, per token cost is 3.929
+After 1680 steps, per token cost is 3.938
+After 1690 steps, per token cost is 3.975
+After 1700 steps, per token cost is 3.994
+After 1710 steps, per token cost is 3.828
+After 1720 steps, per token cost is 3.974
+In iteration: 26
+After 1730 steps, per token cost is 3.689
+After 1740 steps, per token cost is 3.721
+After 1750 steps, per token cost is 3.747
+After 1760 steps, per token cost is 3.707
+After 1770 steps, per token cost is 3.740
+After 1780 steps, per token cost is 3.829
+After 1790 steps, per token cost is 3.622
+In iteration: 27
+After 1800 steps, per token cost is 3.343
+After 1810 steps, per token cost is 3.430
+After 1820 steps, per token cost is 3.516
+After 1830 steps, per token cost is 3.541
+After 1840 steps, per token cost is 3.477
+After 1850 steps, per token cost is 3.658
+After 1860 steps, per token cost is 3.563
+In iteration: 28
+After 1870 steps, per token cost is 3.256
+After 1880 steps, per token cost is 3.224
+After 1890 steps, per token cost is 3.234
+After 1900 steps, per token cost is 3.155
+After 1910 steps, per token cost is 3.294
+After 1920 steps, per token cost is 3.265
+After 1930 steps, per token cost is 3.243
+In iteration: 29
+After 1940 steps, per token cost is 2.901
+After 1950 steps, per token cost is 3.002
+After 1960 steps, per token cost is 3.012
+After 1970 steps, per token cost is 3.086
+After 1980 steps, per token cost is 3.015
+After 1990 steps, per token cost is 3.107
+After 2000 steps, per token cost is 3.124
+In iteration: 30
+After 2010 steps, per token cost is 2.735
+After 2020 steps, per token cost is 2.751
+After 2030 steps, per token cost is 2.759
+After 2040 steps, per token cost is 2.788
+After 2050 steps, per token cost is 2.758
+After 2060 steps, per token cost is 2.849
+In iteration: 31
+After 2070 steps, per token cost is 2.426
+After 2080 steps, per token cost is 2.355
+After 2090 steps, per token cost is 2.457
+After 2100 steps, per token cost is 2.516
+After 2110 steps, per token cost is 2.611
+After 2120 steps, per token cost is 2.596
+After 2130 steps, per token cost is 2.609
+In iteration: 32
+After 2140 steps, per token cost is 2.053
+After 2150 steps, per token cost is 2.126
+After 2160 steps, per token cost is 2.274
+After 2170 steps, per token cost is 2.316
+After 2180 steps, per token cost is 2.415
+After 2190 steps, per token cost is 2.406
+After 2200 steps, per token cost is 2.320
+In iteration: 33
+After 2210 steps, per token cost is 1.856
+After 2220 steps, per token cost is 2.015
+After 2230 steps, per token cost is 2.022
+After 2240 steps, per token cost is 2.089
+After 2250 steps, per token cost is 2.169
+After 2260 steps, per token cost is 2.119
+After 2270 steps, per token cost is 2.140
+In iteration: 34
+After 2280 steps, per token cost is 1.793
+After 2290 steps, per token cost is 1.874
+After 2300 steps, per token cost is 1.780
+After 2310 steps, per token cost is 1.811
+After 2320 steps, per token cost is 1.856
+After 2330 steps, per token cost is 1.911
+After 2340 steps, per token cost is 1.979
+In iteration: 35
+After 2350 steps, per token cost is 1.561
+After 2360 steps, per token cost is 1.692
+After 2370 steps, per token cost is 1.599
+After 2380 steps, per token cost is 1.676
+After 2390 steps, per token cost is 1.776
+After 2400 steps, per token cost is 1.695
+After 2410 steps, per token cost is 1.756
+In iteration: 36
+After 2420 steps, per token cost is 1.353
+After 2430 steps, per token cost is 1.423
+After 2440 steps, per token cost is 1.535
+After 2450 steps, per token cost is 1.475
+After 2460 steps, per token cost is 1.521
+After 2470 steps, per token cost is 1.433
+After 2480 steps, per token cost is 1.644
+In iteration: 37
+After 2490 steps, per token cost is 1.228
+After 2500 steps, per token cost is 1.260
+After 2510 steps, per token cost is 1.417
+After 2520 steps, per token cost is 1.317
+After 2530 steps, per token cost is 1.414
+After 2540 steps, per token cost is 1.422
+After 2550 steps, per token cost is 1.493
+In iteration: 38
+After 2560 steps, per token cost is 1.069
+After 2570 steps, per token cost is 1.177
+After 2580 steps, per token cost is 1.170
+After 2590 steps, per token cost is 1.225
+After 2600 steps, per token cost is 1.254
+After 2610 steps, per token cost is 1.285
+After 2620 steps, per token cost is 1.322
+In iteration: 39
+After 2630 steps, per token cost is 0.961
+After 2640 steps, per token cost is 1.027
+After 2650 steps, per token cost is 1.046
+After 2660 steps, per token cost is 1.076
+After 2670 steps, per token cost is 1.162
+After 2680 steps, per token cost is 1.088
+After 2690 steps, per token cost is 1.170
+In iteration: 40
+After 2700 steps, per token cost is 0.895
+After 2710 steps, per token cost is 0.947
+After 2720 steps, per token cost is 0.928
+After 2730 steps, per token cost is 1.010
+After 2740 steps, per token cost is 0.947
+After 2750 steps, per token cost is 1.061
+In iteration: 41
+After 2760 steps, per token cost is 0.755
+After 2770 steps, per token cost is 0.751
+After 2780 steps, per token cost is 0.803
+After 2790 steps, per token cost is 0.843
+After 2800 steps, per token cost is 0.941
+After 2810 steps, per token cost is 0.871
+After 2820 steps, per token cost is 0.970
+In iteration: 42
+After 2830 steps, per token cost is 0.672
+After 2840 steps, per token cost is 0.681
+After 2850 steps, per token cost is 0.748
+After 2860 steps, per token cost is 0.740
+After 2870 steps, per token cost is 0.813
+After 2880 steps, per token cost is 0.859
+After 2890 steps, per token cost is 0.853
+In iteration: 43
+After 2900 steps, per token cost is 0.587
+After 2910 steps, per token cost is 0.709
+After 2920 steps, per token cost is 0.730
+After 2930 steps, per token cost is 0.696
+After 2940 steps, per token cost is 0.755
+After 2950 steps, per token cost is 0.750
+After 2960 steps, per token cost is 0.805
+In iteration: 44
+After 2970 steps, per token cost is 0.547
+After 2980 steps, per token cost is 0.558
+After 2990 steps, per token cost is 0.643
+After 3000 steps, per token cost is 0.724
+After 3010 steps, per token cost is 0.710
+After 3020 steps, per token cost is 0.721
+After 3030 steps, per token cost is 0.725
+In iteration: 45
+After 3040 steps, per token cost is 0.479
+After 3050 steps, per token cost is 0.554
+After 3060 steps, per token cost is 0.595
+After 3070 steps, per token cost is 0.619
+After 3080 steps, per token cost is 0.648
+After 3090 steps, per token cost is 0.656
+After 3100 steps, per token cost is 0.712
+In iteration: 46
+After 3110 steps, per token cost is 0.506
+After 3120 steps, per token cost is 0.542
+After 3130 steps, per token cost is 0.525
+After 3140 steps, per token cost is 0.595
+After 3150 steps, per token cost is 0.615
+After 3160 steps, per token cost is 0.629
+After 3170 steps, per token cost is 0.640
+In iteration: 47
+After 3180 steps, per token cost is 0.491
+After 3190 steps, per token cost is 0.486
+After 3200 steps, per token cost is 0.461
+After 3210 steps, per token cost is 0.521
+After 3220 steps, per token cost is 0.540
+After 3230 steps, per token cost is 0.608
+After 3240 steps, per token cost is 0.620
+In iteration: 48
+After 3250 steps, per token cost is 0.447
+After 3260 steps, per token cost is 0.470
+After 3270 steps, per token cost is 0.495
+After 3280 steps, per token cost is 0.484
+After 3290 steps, per token cost is 0.486
+After 3300 steps, per token cost is 0.505
+After 3310 steps, per token cost is 0.536
+In iteration: 49
+After 3320 steps, per token cost is 0.416
+After 3330 steps, per token cost is 0.437
+After 3340 steps, per token cost is 0.432
+After 3350 steps, per token cost is 0.514
+After 3360 steps, per token cost is 0.477
+After 3370 steps, per token cost is 0.481
+After 3380 steps, per token cost is 0.532
+In iteration: 50
+After 3390 steps, per token cost is 0.418
+After 3400 steps, per token cost is 0.431
+After 3410 steps, per token cost is 0.456
+After 3420 steps, per token cost is 0.459
+After 3430 steps, per token cost is 0.477
+After 3440 steps, per token cost is 0.451
+In iteration: 51
+After 3450 steps, per token cost is 0.353
+After 3460 steps, per token cost is 0.385
+After 3470 steps, per token cost is 0.366
+After 3480 steps, per token cost is 0.423
+After 3490 steps, per token cost is 0.416
+After 3500 steps, per token cost is 0.406
+After 3510 steps, per token cost is 0.433
+In iteration: 52
+After 3520 steps, per token cost is 0.345
+After 3530 steps, per token cost is 0.349
+After 3540 steps, per token cost is 0.358
+After 3550 steps, per token cost is 0.366
+After 3560 steps, per token cost is 0.426
+After 3570 steps, per token cost is 0.415
+After 3580 steps, per token cost is 0.437
+In iteration: 53
+After 3590 steps, per token cost is 0.363
+After 3600 steps, per token cost is 0.347
+After 3610 steps, per token cost is 0.350
+After 3620 steps, per token cost is 0.348
+After 3630 steps, per token cost is 0.410
+After 3640 steps, per token cost is 0.398
+After 3650 steps, per token cost is 0.414
+In iteration: 54
+After 3660 steps, per token cost is 0.308
+After 3670 steps, per token cost is 0.338
+After 3680 steps, per token cost is 0.345
+After 3690 steps, per token cost is 0.355
+After 3700 steps, per token cost is 0.394
+After 3710 steps, per token cost is 0.373
+After 3720 steps, per token cost is 0.355
+In iteration: 55
+After 3730 steps, per token cost is 0.280
+After 3740 steps, per token cost is 0.319
+After 3750 steps, per token cost is 0.310
+After 3760 steps, per token cost is 0.358
+After 3770 steps, per token cost is 0.374
+After 3780 steps, per token cost is 0.390
+After 3790 steps, per token cost is 0.394
+In iteration: 56
+After 3800 steps, per token cost is 0.280
+After 3810 steps, per token cost is 0.321
+After 3820 steps, per token cost is 0.304
+After 3830 steps, per token cost is 0.346
+After 3840 steps, per token cost is 0.373
+After 3850 steps, per token cost is 0.320
+After 3860 steps, per token cost is 0.381
+In iteration: 57
+After 3870 steps, per token cost is 0.272
+After 3880 steps, per token cost is 0.297
+After 3890 steps, per token cost is 0.290
+After 3900 steps, per token cost is 0.327
+After 3910 steps, per token cost is 0.318
+After 3920 steps, per token cost is 0.382
+After 3930 steps, per token cost is 0.378
+In iteration: 58
+After 3940 steps, per token cost is 0.272
+After 3950 steps, per token cost is 0.278
+After 3960 steps, per token cost is 0.284
+After 3970 steps, per token cost is 0.309
+After 3980 steps, per token cost is 0.321
+After 3990 steps, per token cost is 0.317
+After 4000 steps, per token cost is 0.341
+In iteration: 59
+After 4010 steps, per token cost is 0.277
+After 4020 steps, per token cost is 0.260
+After 4030 steps, per token cost is 0.295
+After 4040 steps, per token cost is 0.301
+After 4050 steps, per token cost is 0.330
+After 4060 steps, per token cost is 0.348
+After 4070 steps, per token cost is 0.357
+In iteration: 60
+After 4080 steps, per token cost is 0.241
+After 4090 steps, per token cost is 0.268
+After 4100 steps, per token cost is 0.260
+After 4110 steps, per token cost is 0.289
+After 4120 steps, per token cost is 0.292
+After 4130 steps, per token cost is 0.335
+In iteration: 61
+After 4140 steps, per token cost is 0.231
+After 4150 steps, per token cost is 0.221
+After 4160 steps, per token cost is 0.237
+After 4170 steps, per token cost is 0.297
+After 4180 steps, per token cost is 0.281
+After 4190 steps, per token cost is 0.319
+After 4200 steps, per token cost is 0.312
+In iteration: 62
+After 4210 steps, per token cost is 0.232
+After 4220 steps, per token cost is 0.251
+After 4230 steps, per token cost is 0.249
+After 4240 steps, per token cost is 0.311
+After 4250 steps, per token cost is 0.274
+After 4260 steps, per token cost is 0.268
+After 4270 steps, per token cost is 0.321
+In iteration: 63
+After 4280 steps, per token cost is 0.236
+After 4290 steps, per token cost is 0.234
+After 4300 steps, per token cost is 0.281
+After 4310 steps, per token cost is 0.253
+After 4320 steps, per token cost is 0.273
+After 4330 steps, per token cost is 0.290
+After 4340 steps, per token cost is 0.290
+In iteration: 64
+After 4350 steps, per token cost is 0.209
+After 4360 steps, per token cost is 0.226
+After 4370 steps, per token cost is 0.260
+After 4380 steps, per token cost is 0.247
+After 4390 steps, per token cost is 0.293
+After 4400 steps, per token cost is 0.293
+After 4410 steps, per token cost is 0.284
+In iteration: 65
+After 4420 steps, per token cost is 0.198
+After 4430 steps, per token cost is 0.241
+After 4440 steps, per token cost is 0.236
+After 4450 steps, per token cost is 0.264
+After 4460 steps, per token cost is 0.275
+After 4470 steps, per token cost is 0.275
+After 4480 steps, per token cost is 0.272
+In iteration: 66
+After 4490 steps, per token cost is 0.190
+After 4500 steps, per token cost is 0.225
+After 4510 steps, per token cost is 0.241
+After 4520 steps, per token cost is 0.240
+After 4530 steps, per token cost is 0.275
+After 4540 steps, per token cost is 0.300
+After 4550 steps, per token cost is 0.261
+In iteration: 67
+After 4560 steps, per token cost is 0.230
+After 4570 steps, per token cost is 0.219
+After 4580 steps, per token cost is 0.242
+After 4590 steps, per token cost is 0.246
+After 4600 steps, per token cost is 0.258
+After 4610 steps, per token cost is 0.269
+After 4620 steps, per token cost is 0.291
+In iteration: 68
+After 4630 steps, per token cost is 0.217
+After 4640 steps, per token cost is 0.218
+After 4650 steps, per token cost is 0.224
+After 4660 steps, per token cost is 0.254
+After 4670 steps, per token cost is 0.238
+After 4680 steps, per token cost is 0.246
+After 4690 steps, per token cost is 0.265
+In iteration: 69
+After 4700 steps, per token cost is 0.222
+After 4710 steps, per token cost is 0.237
+After 4720 steps, per token cost is 0.246
+After 4730 steps, per token cost is 0.225
+After 4740 steps, per token cost is 0.258
+After 4750 steps, per token cost is 0.236
+After 4760 steps, per token cost is 0.318
+In iteration: 70
+After 4770 steps, per token cost is 0.217
+After 4780 steps, per token cost is 0.220
+After 4790 steps, per token cost is 0.232
+After 4800 steps, per token cost is 0.238
+After 4810 steps, per token cost is 0.250
+After 4820 steps, per token cost is 0.257
+In iteration: 71
+After 4830 steps, per token cost is 0.194
+After 4840 steps, per token cost is 0.203
+After 4850 steps, per token cost is 0.197
+After 4860 steps, per token cost is 0.239
+After 4870 steps, per token cost is 0.237
+After 4880 steps, per token cost is 0.246
+After 4890 steps, per token cost is 0.241
+In iteration: 72
+After 4900 steps, per token cost is 0.212
+After 4910 steps, per token cost is 0.186
+After 4920 steps, per token cost is 0.221
+After 4930 steps, per token cost is 0.247
+After 4940 steps, per token cost is 0.227
+After 4950 steps, per token cost is 0.245
+After 4960 steps, per token cost is 0.241
+In iteration: 73
+After 4970 steps, per token cost is 0.191
+After 4980 steps, per token cost is 0.199
+After 4990 steps, per token cost is 0.214
+After 5000 steps, per token cost is 0.201
+After 5010 steps, per token cost is 0.237
+After 5020 steps, per token cost is 0.241
+After 5030 steps, per token cost is 0.250
+In iteration: 74
+After 5040 steps, per token cost is 0.186
+After 5050 steps, per token cost is 0.193
+After 5060 steps, per token cost is 0.203
+After 5070 steps, per token cost is 0.206
+After 5080 steps, per token cost is 0.243
+After 5090 steps, per token cost is 0.229
+After 5100 steps, per token cost is 0.218
+In iteration: 75
+After 5110 steps, per token cost is 0.186
+After 5120 steps, per token cost is 0.193
+After 5130 steps, per token cost is 0.191
+After 5140 steps, per token cost is 0.222
+After 5150 steps, per token cost is 0.229
+After 5160 steps, per token cost is 0.253
+After 5170 steps, per token cost is 0.269
+In iteration: 76
+After 5180 steps, per token cost is 0.276
+After 5190 steps, per token cost is 0.248
+After 5200 steps, per token cost is 0.263
+After 5210 steps, per token cost is 0.230
+After 5220 steps, per token cost is 0.254
+After 5230 steps, per token cost is 0.215
+After 5240 steps, per token cost is 0.235
+In iteration: 77
+After 5250 steps, per token cost is 0.212
+After 5260 steps, per token cost is 0.183
+After 5270 steps, per token cost is 0.191
+After 5280 steps, per token cost is 0.216
+After 5290 steps, per token cost is 0.228
+After 5300 steps, per token cost is 0.232
+After 5310 steps, per token cost is 0.255
+In iteration: 78
+After 5320 steps, per token cost is 0.162
+After 5330 steps, per token cost is 0.201
+After 5340 steps, per token cost is 0.217
+After 5350 steps, per token cost is 0.221
+After 5360 steps, per token cost is 0.233
+After 5370 steps, per token cost is 0.221
+After 5380 steps, per token cost is 0.221
+In iteration: 79
+After 5390 steps, per token cost is 0.199
+After 5400 steps, per token cost is 0.193
+After 5410 steps, per token cost is 0.210
+After 5420 steps, per token cost is 0.190
+After 5430 steps, per token cost is 0.202
+After 5440 steps, per token cost is 0.254
+After 5450 steps, per token cost is 0.200
+In iteration: 80
+After 5460 steps, per token cost is 0.197
+After 5470 steps, per token cost is 0.223
+After 5480 steps, per token cost is 0.182
+After 5490 steps, per token cost is 0.201
+After 5500 steps, per token cost is 0.202
+After 5510 steps, per token cost is 0.224
+In iteration: 81
+After 5520 steps, per token cost is 0.190
+After 5530 steps, per token cost is 0.167
+After 5540 steps, per token cost is 0.187
+After 5550 steps, per token cost is 0.202
+After 5560 steps, per token cost is 0.205
+After 5570 steps, per token cost is 0.213
+After 5580 steps, per token cost is 0.260
+In iteration: 82
+After 5590 steps, per token cost is 0.152
+After 5600 steps, per token cost is 0.188
+After 5610 steps, per token cost is 0.206
+After 5620 steps, per token cost is 0.196
+After 5630 steps, per token cost is 0.199
+After 5640 steps, per token cost is 0.215
+After 5650 steps, per token cost is 0.212
+In iteration: 83
+After 5660 steps, per token cost is 0.148
+After 5670 steps, per token cost is 0.197
+After 5680 steps, per token cost is 0.185
+After 5690 steps, per token cost is 0.189
+After 5700 steps, per token cost is 0.191
+After 5710 steps, per token cost is 0.212
+After 5720 steps, per token cost is 0.226
+In iteration: 84
+After 5730 steps, per token cost is 0.151
+After 5740 steps, per token cost is 0.191
+After 5750 steps, per token cost is 0.176
+After 5760 steps, per token cost is 0.204
+After 5770 steps, per token cost is 0.186
+After 5780 steps, per token cost is 0.244
+After 5790 steps, per token cost is 0.259
+In iteration: 85
+After 5800 steps, per token cost is 0.175
+After 5810 steps, per token cost is 0.172
+After 5820 steps, per token cost is 0.186
+After 5830 steps, per token cost is 0.202
+After 5840 steps, per token cost is 0.225
+After 5850 steps, per token cost is 0.205
+After 5860 steps, per token cost is 0.225
+In iteration: 86
+After 5870 steps, per token cost is 0.173
+After 5880 steps, per token cost is 0.170
+After 5890 steps, per token cost is 0.180
+After 5900 steps, per token cost is 0.166
+After 5910 steps, per token cost is 0.223
+After 5920 steps, per token cost is 0.212
+After 5930 steps, per token cost is 0.213
+In iteration: 87
+After 5940 steps, per token cost is 0.153
+After 5950 steps, per token cost is 0.181
+After 5960 steps, per token cost is 0.184
+After 5970 steps, per token cost is 0.178
+After 5980 steps, per token cost is 0.211
+After 5990 steps, per token cost is 0.213
+After 6000 steps, per token cost is 0.208
+In iteration: 88
+After 6010 steps, per token cost is 0.160
+After 6020 steps, per token cost is 0.214
+After 6030 steps, per token cost is 0.200
+After 6040 steps, per token cost is 0.246
+After 6050 steps, per token cost is 0.241
+After 6060 steps, per token cost is 0.221
+After 6070 steps, per token cost is 0.238
+In iteration: 89
+After 6080 steps, per token cost is 0.173
+After 6090 steps, per token cost is 0.181
+After 6100 steps, per token cost is 0.180
+After 6110 steps, per token cost is 0.178
+After 6120 steps, per token cost is 0.201
+After 6130 steps, per token cost is 0.197
+After 6140 steps, per token cost is 0.224
+In iteration: 90
+After 6150 steps, per token cost is 0.157
+After 6160 steps, per token cost is 0.158
+After 6170 steps, per token cost is 0.197
+After 6180 steps, per token cost is 0.197
+After 6190 steps, per token cost is 0.215
+After 6200 steps, per token cost is 0.244
+In iteration: 91
+After 6210 steps, per token cost is 0.156
+After 6220 steps, per token cost is 0.207
+After 6230 steps, per token cost is 0.172
+After 6240 steps, per token cost is 0.157
+After 6250 steps, per token cost is 0.183
+After 6260 steps, per token cost is 0.184
+After 6270 steps, per token cost is 0.188
+In iteration: 92
+After 6280 steps, per token cost is 0.152
+After 6290 steps, per token cost is 0.167
+After 6300 steps, per token cost is 0.157
+After 6310 steps, per token cost is 0.194
+After 6320 steps, per token cost is 0.170
+After 6330 steps, per token cost is 0.190
+After 6340 steps, per token cost is 0.204
+In iteration: 93
+After 6350 steps, per token cost is 0.158
+After 6360 steps, per token cost is 0.180
+After 6370 steps, per token cost is 0.183
+After 6380 steps, per token cost is 0.190
+After 6390 steps, per token cost is 0.184
+After 6400 steps, per token cost is 0.193
+After 6410 steps, per token cost is 0.215
+In iteration: 94
+After 6420 steps, per token cost is 0.171
+After 6430 steps, per token cost is 0.155
+After 6440 steps, per token cost is 0.181
+After 6450 steps, per token cost is 0.188
+After 6460 steps, per token cost is 0.216
+After 6470 steps, per token cost is 0.183
+After 6480 steps, per token cost is 0.225
+In iteration: 95
+After 6490 steps, per token cost is 0.169
+After 6500 steps, per token cost is 0.288
+After 6510 steps, per token cost is 0.226
+After 6520 steps, per token cost is 0.246
+After 6530 steps, per token cost is 0.224
+After 6540 steps, per token cost is 0.210
+After 6550 steps, per token cost is 0.206
+In iteration: 96
+After 6560 steps, per token cost is 0.145
+After 6570 steps, per token cost is 0.156
+After 6580 steps, per token cost is 0.189
+After 6590 steps, per token cost is 0.175
+After 6600 steps, per token cost is 0.180
+After 6610 steps, per token cost is 0.201
+After 6620 steps, per token cost is 0.174
+In iteration: 97
+After 6630 steps, per token cost is 0.159
+After 6640 steps, per token cost is 0.160
+After 6650 steps, per token cost is 0.178
+After 6660 steps, per token cost is 0.189
+After 6670 steps, per token cost is 0.194
+After 6680 steps, per token cost is 0.216
+After 6690 steps, per token cost is 0.215
+In iteration: 98
+After 6700 steps, per token cost is 0.152
+After 6710 steps, per token cost is 0.165
+After 6720 steps, per token cost is 0.190
+After 6730 steps, per token cost is 0.198
+After 6740 steps, per token cost is 0.154
+After 6750 steps, per token cost is 0.208
+After 6760 steps, per token cost is 0.198
+In iteration: 99
+After 6770 steps, per token cost is 0.169
+After 6780 steps, per token cost is 0.161
+After 6790 steps, per token cost is 0.186
+After 6800 steps, per token cost is 0.175
+After 6810 steps, per token cost is 0.217
+After 6820 steps, per token cost is 0.201
+After 6830 steps, per token cost is 0.207
+In iteration: 100
+After 6840 steps, per token cost is 0.173
+After 6850 steps, per token cost is 0.166
+After 6860 steps, per token cost is 0.172
+After 6870 steps, per token cost is 0.180
+After 6880 steps, per token cost is 0.203
+After 6890 steps, per token cost is 0.192
+In iteration: 101
+After 6900 steps, per token cost is 0.174
+After 6910 steps, per token cost is 0.139
+After 6920 steps, per token cost is 0.177
+After 6930 steps, per token cost is 0.184
+After 6940 steps, per token cost is 0.204
+After 6950 steps, per token cost is 0.208
+After 6960 steps, per token cost is 0.219
+In iteration: 102
+After 6970 steps, per token cost is 0.161
+After 6980 steps, per token cost is 0.136
+After 6990 steps, per token cost is 0.175
+After 7000 steps, per token cost is 0.178
+After 7010 steps, per token cost is 0.183
+After 7020 steps, per token cost is 0.177
+After 7030 steps, per token cost is 0.216
+In iteration: 103
+After 7040 steps, per token cost is 0.155
+After 7050 steps, per token cost is 0.143
+After 7060 steps, per token cost is 0.163
+After 7070 steps, per token cost is 0.171
+After 7080 steps, per token cost is 0.211
+After 7090 steps, per token cost is 0.194
+After 7100 steps, per token cost is 0.201
+In iteration: 104
+After 7110 steps, per token cost is 0.146
+After 7120 steps, per token cost is 0.175
+After 7130 steps, per token cost is 0.157
+After 7140 steps, per token cost is 0.195
+After 7150 steps, per token cost is 0.208
+After 7160 steps, per token cost is 0.204
+After 7170 steps, per token cost is 0.210
+In iteration: 105
+After 7180 steps, per token cost is 0.163
+After 7190 steps, per token cost is 0.162
+After 7200 steps, per token cost is 0.208
+After 7210 steps, per token cost is 0.166
+After 7220 steps, per token cost is 0.183
+After 7230 steps, per token cost is 0.173
+After 7240 steps, per token cost is 0.189
+In iteration: 106
+After 7250 steps, per token cost is 0.145
+After 7260 steps, per token cost is 0.168
+After 7270 steps, per token cost is 0.166
+After 7280 steps, per token cost is 0.210
+After 7290 steps, per token cost is 0.175
+After 7300 steps, per token cost is 0.191
+After 7310 steps, per token cost is 0.213
+In iteration: 107
+After 7320 steps, per token cost is 0.145
+After 7330 steps, per token cost is 0.160
+After 7340 steps, per token cost is 0.184
+After 7350 steps, per token cost is 0.180
+After 7360 steps, per token cost is 0.194
+After 7370 steps, per token cost is 0.188
+After 7380 steps, per token cost is 0.199
+In iteration: 108
+After 7390 steps, per token cost is 0.140
+After 7400 steps, per token cost is 0.160
+After 7410 steps, per token cost is 0.182
+After 7420 steps, per token cost is 0.162
+After 7430 steps, per token cost is 0.200
+After 7440 steps, per token cost is 0.186
+After 7450 steps, per token cost is 0.234
+In iteration: 109
+After 7460 steps, per token cost is 0.145
+After 7470 steps, per token cost is 0.163
+After 7480 steps, per token cost is 0.190
+After 7490 steps, per token cost is 0.197
+After 7500 steps, per token cost is 0.190
+After 7510 steps, per token cost is 0.189
+After 7520 steps, per token cost is 0.231
+In iteration: 110
+After 7530 steps, per token cost is 0.164
+After 7540 steps, per token cost is 0.173
+After 7550 steps, per token cost is 0.190
+After 7560 steps, per token cost is 0.174
+After 7570 steps, per token cost is 0.200
+After 7580 steps, per token cost is 0.183
+In iteration: 111
+After 7590 steps, per token cost is 0.148
+After 7600 steps, per token cost is 0.147
+After 7610 steps, per token cost is 0.153
+After 7620 steps, per token cost is 0.205
+After 7630 steps, per token cost is 0.166
+After 7640 steps, per token cost is 0.170
+After 7650 steps, per token cost is 0.216
+In iteration: 112
+After 7660 steps, per token cost is 0.135
+After 7670 steps, per token cost is 0.145
+After 7680 steps, per token cost is 0.158
+After 7690 steps, per token cost is 0.174
+After 7700 steps, per token cost is 0.269
+After 7710 steps, per token cost is 0.210
+After 7720 steps, per token cost is 0.283
+In iteration: 113
+After 7730 steps, per token cost is 0.166
+After 7740 steps, per token cost is 0.173
+After 7750 steps, per token cost is 0.174
+After 7760 steps, per token cost is 0.165
+After 7770 steps, per token cost is 0.175
+After 7780 steps, per token cost is 0.207
+After 7790 steps, per token cost is 0.182
+In iteration: 114
+After 7800 steps, per token cost is 0.144
+After 7810 steps, per token cost is 0.156
+After 7820 steps, per token cost is 0.156
+After 7830 steps, per token cost is 0.186
+After 7840 steps, per token cost is 0.202
+After 7850 steps, per token cost is 0.211
+After 7860 steps, per token cost is 0.198
+In iteration: 115
+After 7870 steps, per token cost is 0.163
+After 7880 steps, per token cost is 0.148
+After 7890 steps, per token cost is 0.161
+After 7900 steps, per token cost is 0.182
+After 7910 steps, per token cost is 0.185
+After 7920 steps, per token cost is 0.199
+After 7930 steps, per token cost is 0.183
+In iteration: 116
+After 7940 steps, per token cost is 0.151
+After 7950 steps, per token cost is 0.142
+After 7960 steps, per token cost is 0.143
+After 7970 steps, per token cost is 0.177
+After 7980 steps, per token cost is 0.172
+After 7990 steps, per token cost is 0.173
+After 8000 steps, per token cost is 0.196
+In iteration: 117
+After 8010 steps, per token cost is 0.150
+After 8020 steps, per token cost is 0.187
+After 8030 steps, per token cost is 0.172
+After 8040 steps, per token cost is 0.170
+After 8050 steps, per token cost is 0.168
+After 8060 steps, per token cost is 0.205
+After 8070 steps, per token cost is 0.221
+In iteration: 118
+After 8080 steps, per token cost is 0.179
+After 8090 steps, per token cost is 0.154
+After 8100 steps, per token cost is 0.188
+After 8110 steps, per token cost is 0.183
+After 8120 steps, per token cost is 0.181
+After 8130 steps, per token cost is 0.195
+After 8140 steps, per token cost is 0.212
+In iteration: 119
+After 8150 steps, per token cost is 0.134
+After 8160 steps, per token cost is 0.148
+After 8170 steps, per token cost is 0.151
+After 8180 steps, per token cost is 0.138
+After 8190 steps, per token cost is 0.148
+After 8200 steps, per token cost is 0.182
+After 8210 steps, per token cost is 0.159
+In iteration: 120
+After 8220 steps, per token cost is 0.133
+After 8230 steps, per token cost is 0.142
+After 8240 steps, per token cost is 0.183
+After 8250 steps, per token cost is 0.173
+After 8260 steps, per token cost is 0.174
+After 8270 steps, per token cost is 0.200
+In iteration: 121
+After 8280 steps, per token cost is 0.115
+After 8290 steps, per token cost is 0.147
+After 8300 steps, per token cost is 0.156
+After 8310 steps, per token cost is 0.165
+After 8320 steps, per token cost is 0.207
+After 8330 steps, per token cost is 0.206
+After 8340 steps, per token cost is 0.187
+In iteration: 122
+After 8350 steps, per token cost is 0.138
+After 8360 steps, per token cost is 0.173
+After 8370 steps, per token cost is 0.165
+After 8380 steps, per token cost is 0.193
+After 8390 steps, per token cost is 0.187
+After 8400 steps, per token cost is 0.168
+After 8410 steps, per token cost is 0.173
+In iteration: 123
+After 8420 steps, per token cost is 0.149
+After 8430 steps, per token cost is 0.146
+After 8440 steps, per token cost is 0.164
+After 8450 steps, per token cost is 0.167
+After 8460 steps, per token cost is 0.192
+After 8470 steps, per token cost is 0.190
+After 8480 steps, per token cost is 0.165
+In iteration: 124
+After 8490 steps, per token cost is 0.143
+After 8500 steps, per token cost is 0.164
+After 8510 steps, per token cost is 0.174
+After 8520 steps, per token cost is 0.176
+After 8530 steps, per token cost is 0.179
+After 8540 steps, per token cost is 0.186
+After 8550 steps, per token cost is 0.177
+In iteration: 125
+After 8560 steps, per token cost is 0.132
+After 8570 steps, per token cost is 0.162
+After 8580 steps, per token cost is 0.150
+After 8590 steps, per token cost is 0.185
+After 8600 steps, per token cost is 0.185
+After 8610 steps, per token cost is 0.183
+After 8620 steps, per token cost is 0.160
+In iteration: 126
+After 8630 steps, per token cost is 0.148
+After 8640 steps, per token cost is 0.183
+After 8650 steps, per token cost is 0.153
+After 8660 steps, per token cost is 0.204
+After 8670 steps, per token cost is 0.176
+After 8680 steps, per token cost is 0.185
+After 8690 steps, per token cost is 0.182
+In iteration: 127
+After 8700 steps, per token cost is 0.122
+After 8710 steps, per token cost is 0.147
+After 8720 steps, per token cost is 0.149
+After 8730 steps, per token cost is 0.197
+After 8740 steps, per token cost is 0.173
+After 8750 steps, per token cost is 0.193
+After 8760 steps, per token cost is 0.176
+In iteration: 128
+After 8770 steps, per token cost is 0.158
+After 8780 steps, per token cost is 0.180
+After 8790 steps, per token cost is 0.185
+After 8800 steps, per token cost is 0.173
+After 8810 steps, per token cost is 0.208
+After 8820 steps, per token cost is 0.207
+After 8830 steps, per token cost is 0.201
+In iteration: 129
+After 8840 steps, per token cost is 0.134
+After 8850 steps, per token cost is 0.159
+After 8860 steps, per token cost is 0.184
+After 8870 steps, per token cost is 0.169
+After 8880 steps, per token cost is 0.205
+After 8890 steps, per token cost is 0.195
+After 8900 steps, per token cost is 0.218
+In iteration: 130
+After 8910 steps, per token cost is 0.145
+After 8920 steps, per token cost is 0.145
+After 8930 steps, per token cost is 0.170
+After 8940 steps, per token cost is 0.186
+After 8950 steps, per token cost is 0.196
+After 8960 steps, per token cost is 0.192
+In iteration: 131
+After 8970 steps, per token cost is 0.142
+After 8980 steps, per token cost is 0.154
+After 8990 steps, per token cost is 0.163
+After 9000 steps, per token cost is 0.168
+After 9010 steps, per token cost is 0.185
+After 9020 steps, per token cost is 0.185
+After 9030 steps, per token cost is 0.188
+In iteration: 132
+After 9040 steps, per token cost is 0.180
+After 9050 steps, per token cost is 0.156
+After 9060 steps, per token cost is 0.169
+After 9070 steps, per token cost is 0.202
+After 9080 steps, per token cost is 0.199
+After 9090 steps, per token cost is 0.197
+After 9100 steps, per token cost is 0.199
+In iteration: 133
+After 9110 steps, per token cost is 0.138
+After 9120 steps, per token cost is 0.134
+After 9130 steps, per token cost is 0.172
+After 9140 steps, per token cost is 0.166
+After 9150 steps, per token cost is 0.196
+After 9160 steps, per token cost is 0.212
+After 9170 steps, per token cost is 0.171
+In iteration: 134
+After 9180 steps, per token cost is 0.144
+After 9190 steps, per token cost is 0.157
+After 9200 steps, per token cost is 0.179
+After 9210 steps, per token cost is 0.148
+After 9220 steps, per token cost is 0.179
+After 9230 steps, per token cost is 0.196
+After 9240 steps, per token cost is 0.191
+In iteration: 135
+After 9250 steps, per token cost is 0.153
+After 9260 steps, per token cost is 0.156
+After 9270 steps, per token cost is 0.199
+After 9280 steps, per token cost is 0.175
+After 9290 steps, per token cost is 0.231
+After 9300 steps, per token cost is 0.241
+After 9310 steps, per token cost is 0.220
+In iteration: 136
+After 9320 steps, per token cost is 0.301
+After 9330 steps, per token cost is 0.277
+After 9340 steps, per token cost is 0.234
+After 9350 steps, per token cost is 0.164
+After 9360 steps, per token cost is 0.229
+After 9370 steps, per token cost is 0.225
+After 9380 steps, per token cost is 0.240
+In iteration: 137
+After 9390 steps, per token cost is 0.180
+After 9400 steps, per token cost is 0.210
+After 9410 steps, per token cost is 0.193
+After 9420 steps, per token cost is 0.176
+After 9430 steps, per token cost is 0.218
+After 9440 steps, per token cost is 0.194
+After 9450 steps, per token cost is 0.203
+In iteration: 138
+After 9460 steps, per token cost is 0.127
+After 9470 steps, per token cost is 0.175
+After 9480 steps, per token cost is 0.184
+After 9490 steps, per token cost is 0.188
+After 9500 steps, per token cost is 0.202
+After 9510 steps, per token cost is 0.193
+After 9520 steps, per token cost is 0.210
+In iteration: 139
+After 9530 steps, per token cost is 0.154
+After 9540 steps, per token cost is 0.160
+After 9550 steps, per token cost is 0.190
+After 9560 steps, per token cost is 0.174
+After 9570 steps, per token cost is 0.192
+After 9580 steps, per token cost is 0.218
+After 9590 steps, per token cost is 0.164
+In iteration: 140
+After 9600 steps, per token cost is 0.132
+After 9610 steps, per token cost is 0.161
+After 9620 steps, per token cost is 0.192
+After 9630 steps, per token cost is 0.220
+After 9640 steps, per token cost is 0.205
+After 9650 steps, per token cost is 0.180
+In iteration: 141
+After 9660 steps, per token cost is 0.138
+After 9670 steps, per token cost is 0.161
+After 9680 steps, per token cost is 0.166
+After 9690 steps, per token cost is 0.197
+After 9700 steps, per token cost is 0.183
+After 9710 steps, per token cost is 0.184
+After 9720 steps, per token cost is 0.226
+In iteration: 142
+After 9730 steps, per token cost is 0.135
+After 9740 steps, per token cost is 0.158
+After 9750 steps, per token cost is 0.163
+After 9760 steps, per token cost is 0.178
+After 9770 steps, per token cost is 0.172
+After 9780 steps, per token cost is 0.220
+After 9790 steps, per token cost is 0.192
+In iteration: 143
+After 9800 steps, per token cost is 0.149
+After 9810 steps, per token cost is 0.155
+After 9820 steps, per token cost is 0.162
+After 9830 steps, per token cost is 0.165
+After 9840 steps, per token cost is 0.167
+After 9850 steps, per token cost is 0.188
+After 9860 steps, per token cost is 0.195
+In iteration: 144
+After 9870 steps, per token cost is 0.160
+After 9880 steps, per token cost is 0.141
+After 9890 steps, per token cost is 0.144
+After 9900 steps, per token cost is 0.172
+After 9910 steps, per token cost is 0.194
+After 9920 steps, per token cost is 0.169
+After 9930 steps, per token cost is 0.198
+In iteration: 145
+After 9940 steps, per token cost is 0.142
+After 9950 steps, per token cost is 0.179
+After 9960 steps, per token cost is 0.177
+After 9970 steps, per token cost is 0.168
+After 9980 steps, per token cost is 0.184
+After 9990 steps, per token cost is 0.167
+After 10000 steps, per token cost is 0.187
+In iteration: 146
+After 10010 steps, per token cost is 0.161
+After 10020 steps, per token cost is 0.176
+After 10030 steps, per token cost is 0.163
+After 10040 steps, per token cost is 0.191
+After 10050 steps, per token cost is 0.196
+After 10060 steps, per token cost is 0.175
+After 10070 steps, per token cost is 0.202
+In iteration: 147
+After 10080 steps, per token cost is 0.149
+After 10090 steps, per token cost is 0.148
+After 10100 steps, per token cost is 0.184
+After 10110 steps, per token cost is 0.194
+After 10120 steps, per token cost is 0.172
+After 10130 steps, per token cost is 0.184
+After 10140 steps, per token cost is 0.195
+In iteration: 148
+After 10150 steps, per token cost is 0.145
+After 10160 steps, per token cost is 0.167
+After 10170 steps, per token cost is 0.204
+After 10180 steps, per token cost is 0.203
+After 10190 steps, per token cost is 0.190
+After 10200 steps, per token cost is 0.202
+After 10210 steps, per token cost is 0.190
+In iteration: 149
+After 10220 steps, per token cost is 0.152
+After 10230 steps, per token cost is 0.178
+After 10240 steps, per token cost is 0.165
+After 10250 steps, per token cost is 0.187
+After 10260 steps, per token cost is 0.184
+After 10270 steps, per token cost is 0.219
+After 10280 steps, per token cost is 0.166
+In iteration: 150
+After 10290 steps, per token cost is 0.179
+After 10300 steps, per token cost is 0.173
+After 10310 steps, per token cost is 0.186
+After 10320 steps, per token cost is 0.166
+After 10330 steps, per token cost is 0.186
+After 10340 steps, per token cost is 0.212
+In iteration: 151
+After 10350 steps, per token cost is 0.153
+After 10360 steps, per token cost is 0.179
+After 10370 steps, per token cost is 0.172
+After 10380 steps, per token cost is 0.190
+After 10390 steps, per token cost is 0.207
+After 10400 steps, per token cost is 0.215
+After 10410 steps, per token cost is 0.209
+In iteration: 152
+After 10420 steps, per token cost is 0.171
+After 10430 steps, per token cost is 0.174
+After 10440 steps, per token cost is 0.184
+After 10450 steps, per token cost is 0.201
+After 10460 steps, per token cost is 0.181
+After 10470 steps, per token cost is 0.201
+After 10480 steps, per token cost is 0.240
+In iteration: 153
+After 10490 steps, per token cost is 0.155
+After 10500 steps, per token cost is 0.162
+After 10510 steps, per token cost is 0.155
+After 10520 steps, per token cost is 0.192
+After 10530 steps, per token cost is 0.199
+After 10540 steps, per token cost is 0.189
+After 10550 steps, per token cost is 0.208
+In iteration: 154
+After 10560 steps, per token cost is 0.150
+After 10570 steps, per token cost is 0.157
+After 10580 steps, per token cost is 0.176
+After 10590 steps, per token cost is 0.190
+After 10600 steps, per token cost is 0.194
+After 10610 steps, per token cost is 0.187
+After 10620 steps, per token cost is 0.217
+In iteration: 155
+After 10630 steps, per token cost is 0.164
+After 10640 steps, per token cost is 0.165
+After 10650 steps, per token cost is 0.191
+After 10660 steps, per token cost is 0.172
+After 10670 steps, per token cost is 0.208
+After 10680 steps, per token cost is 0.217
+After 10690 steps, per token cost is 0.200
+In iteration: 156
+After 10700 steps, per token cost is 0.149
+After 10710 steps, per token cost is 0.180
+After 10720 steps, per token cost is 0.189
+After 10730 steps, per token cost is 0.182
+After 10740 steps, per token cost is 0.208
+After 10750 steps, per token cost is 0.209
+After 10760 steps, per token cost is 0.231
+In iteration: 157
+After 10770 steps, per token cost is 0.157
+After 10780 steps, per token cost is 0.177
+After 10790 steps, per token cost is 0.159
+After 10800 steps, per token cost is 0.208
+After 10810 steps, per token cost is 0.187
+After 10820 steps, per token cost is 0.240
+After 10830 steps, per token cost is 0.211
+In iteration: 158
+After 10840 steps, per token cost is 0.151
+After 10850 steps, per token cost is 0.186
+After 10860 steps, per token cost is 0.170
+After 10870 steps, per token cost is 0.203
+After 10880 steps, per token cost is 0.163
+After 10890 steps, per token cost is 0.208
+After 10900 steps, per token cost is 0.214
+In iteration: 159
+After 10910 steps, per token cost is 0.135
+After 10920 steps, per token cost is 0.198
+After 10930 steps, per token cost is 0.167
+After 10940 steps, per token cost is 0.174
+After 10950 steps, per token cost is 0.177
+After 10960 steps, per token cost is 0.213
+After 10970 steps, per token cost is 0.261
+In iteration: 160
+After 10980 steps, per token cost is 0.180
+After 10990 steps, per token cost is 0.187
+After 11000 steps, per token cost is 0.169
+After 11010 steps, per token cost is 0.200
+After 11020 steps, per token cost is 0.174
+After 11030 steps, per token cost is 0.214
+In iteration: 161
+After 11040 steps, per token cost is 0.171
+After 11050 steps, per token cost is 0.170
+After 11060 steps, per token cost is 0.158
+After 11070 steps, per token cost is 0.170
+After 11080 steps, per token cost is 0.172
+After 11090 steps, per token cost is 0.216
+After 11100 steps, per token cost is 0.209
+In iteration: 162
+After 11110 steps, per token cost is 0.163
+After 11120 steps, per token cost is 0.161
+After 11130 steps, per token cost is 0.162
+After 11140 steps, per token cost is 0.191
+After 11150 steps, per token cost is 0.194
+After 11160 steps, per token cost is 0.208
+After 11170 steps, per token cost is 0.199
+In iteration: 163
+After 11180 steps, per token cost is 0.148
+After 11190 steps, per token cost is 0.176
+After 11200 steps, per token cost is 0.156
+After 11210 steps, per token cost is 0.200
+After 11220 steps, per token cost is 0.197
+After 11230 steps, per token cost is 0.192
+After 11240 steps, per token cost is 0.206
+In iteration: 164
+After 11250 steps, per token cost is 0.155
+After 11260 steps, per token cost is 0.167
+After 11270 steps, per token cost is 0.172
+After 11280 steps, per token cost is 0.160
+After 11290 steps, per token cost is 0.195
+After 11300 steps, per token cost is 0.199
+After 11310 steps, per token cost is 0.215
+In iteration: 165
+After 11320 steps, per token cost is 0.146
+After 11330 steps, per token cost is 0.172
+After 11340 steps, per token cost is 0.184
+After 11350 steps, per token cost is 0.200
+After 11360 steps, per token cost is 0.190
+After 11370 steps, per token cost is 0.189
+After 11380 steps, per token cost is 0.202
+In iteration: 166
+After 11390 steps, per token cost is 0.145
+After 11400 steps, per token cost is 0.164
+After 11410 steps, per token cost is 0.174
+After 11420 steps, per token cost is 0.203
+After 11430 steps, per token cost is 0.217
+After 11440 steps, per token cost is 0.220
+After 11450 steps, per token cost is 0.229
+In iteration: 167
+After 11460 steps, per token cost is 0.155
+After 11470 steps, per token cost is 0.182
+After 11480 steps, per token cost is 0.190
+After 11490 steps, per token cost is 0.195
+After 11500 steps, per token cost is 0.228
+After 11510 steps, per token cost is 0.184
+After 11520 steps, per token cost is 0.207
+In iteration: 168
+After 11530 steps, per token cost is 0.164
+After 11540 steps, per token cost is 0.179
+After 11550 steps, per token cost is 0.172
+After 11560 steps, per token cost is 0.213
+After 11570 steps, per token cost is 0.193
+After 11580 steps, per token cost is 0.208
+After 11590 steps, per token cost is 0.219
+In iteration: 169
+After 11600 steps, per token cost is 0.154
+After 11610 steps, per token cost is 0.175
+After 11620 steps, per token cost is 0.192
+After 11630 steps, per token cost is 0.207
+After 11640 steps, per token cost is 0.200
+After 11650 steps, per token cost is 0.214
+After 11660 steps, per token cost is 0.221
+In iteration: 170
+After 11670 steps, per token cost is 0.159
+After 11680 steps, per token cost is 0.151
+After 11690 steps, per token cost is 0.200
+After 11700 steps, per token cost is 0.196
+After 11710 steps, per token cost is 0.202
+After 11720 steps, per token cost is 0.220
+In iteration: 171
+After 11730 steps, per token cost is 0.183
+After 11740 steps, per token cost is 0.156
+After 11750 steps, per token cost is 0.209
+After 11760 steps, per token cost is 0.205
+After 11770 steps, per token cost is 0.211
+After 11780 steps, per token cost is 0.214
+After 11790 steps, per token cost is 0.234
+In iteration: 172
+After 11800 steps, per token cost is 0.144
+After 11810 steps, per token cost is 0.151
+After 11820 steps, per token cost is 0.198
+After 11830 steps, per token cost is 0.224
+After 11840 steps, per token cost is 0.223
+After 11850 steps, per token cost is 0.201
+After 11860 steps, per token cost is 0.242
+In iteration: 173
+After 11870 steps, per token cost is 0.177
+After 11880 steps, per token cost is 0.191
+After 11890 steps, per token cost is 0.223
+After 11900 steps, per token cost is 0.192
+After 11910 steps, per token cost is 0.235
+After 11920 steps, per token cost is 0.253
+After 11930 steps, per token cost is 0.272
+In iteration: 174
+After 11940 steps, per token cost is 0.168
+After 11950 steps, per token cost is 0.171
+After 11960 steps, per token cost is 0.244
+After 11970 steps, per token cost is 0.221
+After 11980 steps, per token cost is 0.216
+After 11990 steps, per token cost is 0.213
+After 12000 steps, per token cost is 0.234
+In iteration: 175
+After 12010 steps, per token cost is 0.186
+After 12020 steps, per token cost is 0.220
+After 12030 steps, per token cost is 0.212
+After 12040 steps, per token cost is 0.207
+After 12050 steps, per token cost is 0.238
+After 12060 steps, per token cost is 0.269
+After 12070 steps, per token cost is 0.215
+In iteration: 176
+After 12080 steps, per token cost is 0.178
+After 12090 steps, per token cost is 0.159
+After 12100 steps, per token cost is 0.198
+After 12110 steps, per token cost is 0.189
+After 12120 steps, per token cost is 0.252
+After 12130 steps, per token cost is 0.226
+After 12140 steps, per token cost is 0.227
+In iteration: 177
+After 12150 steps, per token cost is 0.166
+After 12160 steps, per token cost is 0.188
+After 12170 steps, per token cost is 0.180
+After 12180 steps, per token cost is 0.196
+After 12190 steps, per token cost is 0.247
+After 12200 steps, per token cost is 0.216
+After 12210 steps, per token cost is 0.250
+In iteration: 178
+After 12220 steps, per token cost is 0.183
+After 12230 steps, per token cost is 0.189
+After 12240 steps, per token cost is 0.192
+After 12250 steps, per token cost is 0.227
+After 12260 steps, per token cost is 0.199
+After 12270 steps, per token cost is 0.222
+After 12280 steps, per token cost is 0.231
+In iteration: 179
+After 12290 steps, per token cost is 0.162
+After 12300 steps, per token cost is 0.172
+After 12310 steps, per token cost is 0.266
+After 12320 steps, per token cost is 0.184
+After 12330 steps, per token cost is 0.212
+After 12340 steps, per token cost is 0.225
+After 12350 steps, per token cost is 0.242
+In iteration: 180
+After 12360 steps, per token cost is 0.199
+After 12370 steps, per token cost is 0.171
+After 12380 steps, per token cost is 0.187
+After 12390 steps, per token cost is 0.212
+After 12400 steps, per token cost is 0.218
+After 12410 steps, per token cost is 0.212
+In iteration: 181
+After 12420 steps, per token cost is 0.177
+After 12430 steps, per token cost is 0.161
+After 12440 steps, per token cost is 0.198
+After 12450 steps, per token cost is 0.197
+After 12460 steps, per token cost is 0.252
+After 12470 steps, per token cost is 0.231
+After 12480 steps, per token cost is 0.248
+In iteration: 182
+After 12490 steps, per token cost is 0.171
+After 12500 steps, per token cost is 0.189
+After 12510 steps, per token cost is 0.179
+After 12520 steps, per token cost is 0.240
+After 12530 steps, per token cost is 0.232
+After 12540 steps, per token cost is 0.247
+After 12550 steps, per token cost is 0.257
+In iteration: 183
+After 12560 steps, per token cost is 0.204
+After 12570 steps, per token cost is 0.202
+After 12580 steps, per token cost is 0.225
+After 12590 steps, per token cost is 0.236
+After 12600 steps, per token cost is 0.233
+After 12610 steps, per token cost is 0.206
+After 12620 steps, per token cost is 0.255
+In iteration: 184
+After 12630 steps, per token cost is 0.164
+After 12640 steps, per token cost is 0.200
+After 12650 steps, per token cost is 0.217
+After 12660 steps, per token cost is 0.219
+After 12670 steps, per token cost is 0.209
+After 12680 steps, per token cost is 0.268
+After 12690 steps, per token cost is 0.271
+In iteration: 185
+After 12700 steps, per token cost is 0.190
+After 12710 steps, per token cost is 0.200
+After 12720 steps, per token cost is 0.236
+After 12730 steps, per token cost is 0.254
+After 12740 steps, per token cost is 0.218
+After 12750 steps, per token cost is 0.297
+After 12760 steps, per token cost is 0.253
+In iteration: 186
+After 12770 steps, per token cost is 0.214
+After 12780 steps, per token cost is 0.247
+After 12790 steps, per token cost is 0.230
+After 12800 steps, per token cost is 0.218
+After 12810 steps, per token cost is 0.234
+After 12820 steps, per token cost is 0.238
+After 12830 steps, per token cost is 0.276
+In iteration: 187
+After 12840 steps, per token cost is 0.179
+After 12850 steps, per token cost is 0.251
+After 12860 steps, per token cost is 0.265
+After 12870 steps, per token cost is 0.240
+After 12880 steps, per token cost is 0.243
+After 12890 steps, per token cost is 0.279
+After 12900 steps, per token cost is 0.257
+In iteration: 188
+After 12910 steps, per token cost is 0.211
+After 12920 steps, per token cost is 0.274
+After 12930 steps, per token cost is 0.240
+After 12940 steps, per token cost is 0.220
+After 12950 steps, per token cost is 0.255
+After 12960 steps, per token cost is 0.236
+After 12970 steps, per token cost is 0.261
+In iteration: 189
+After 12980 steps, per token cost is 0.217
+After 12990 steps, per token cost is 0.187
+After 13000 steps, per token cost is 0.291
+After 13010 steps, per token cost is 0.241
+After 13020 steps, per token cost is 0.224
+After 13030 steps, per token cost is 0.257
+After 13040 steps, per token cost is 0.209
+In iteration: 190
+After 13050 steps, per token cost is 0.181
+After 13060 steps, per token cost is 0.203
+After 13070 steps, per token cost is 0.220
+After 13080 steps, per token cost is 0.260
+After 13090 steps, per token cost is 0.227
+After 13100 steps, per token cost is 0.259
+In iteration: 191
+After 13110 steps, per token cost is 0.197
+After 13120 steps, per token cost is 0.191
+After 13130 steps, per token cost is 0.219
+After 13140 steps, per token cost is 0.209
+After 13150 steps, per token cost is 0.249
+After 13160 steps, per token cost is 0.235
+After 13170 steps, per token cost is 0.261
+In iteration: 192
+After 13180 steps, per token cost is 0.250
+After 13190 steps, per token cost is 0.233
+After 13200 steps, per token cost is 0.222
+After 13210 steps, per token cost is 0.217
+After 13220 steps, per token cost is 0.212
+After 13230 steps, per token cost is 0.234
+After 13240 steps, per token cost is 0.247
+In iteration: 193
+After 13250 steps, per token cost is 0.183
+After 13260 steps, per token cost is 0.202
+After 13270 steps, per token cost is 0.206
+After 13280 steps, per token cost is 0.248
+After 13290 steps, per token cost is 0.220
+After 13300 steps, per token cost is 0.242
+After 13310 steps, per token cost is 0.251
+In iteration: 194
+After 13320 steps, per token cost is 0.160
+After 13330 steps, per token cost is 0.237
+After 13340 steps, per token cost is 0.201
+After 13350 steps, per token cost is 0.239
+After 13360 steps, per token cost is 0.240
+After 13370 steps, per token cost is 0.245
+After 13380 steps, per token cost is 0.284
+In iteration: 195
+After 13390 steps, per token cost is 0.183
+After 13400 steps, per token cost is 0.209
+After 13410 steps, per token cost is 0.210
+After 13420 steps, per token cost is 0.236
+After 13430 steps, per token cost is 0.243
+After 13440 steps, per token cost is 0.247
+After 13450 steps, per token cost is 0.284
+In iteration: 196
+After 13460 steps, per token cost is 0.180
+After 13470 steps, per token cost is 0.197
+After 13480 steps, per token cost is 0.234
+After 13490 steps, per token cost is 0.251
+After 13500 steps, per token cost is 0.250
+After 13510 steps, per token cost is 0.259
+After 13520 steps, per token cost is 0.278
+In iteration: 197
+After 13530 steps, per token cost is 0.190
+After 13540 steps, per token cost is 0.198
+After 13550 steps, per token cost is 0.193
+After 13560 steps, per token cost is 0.221
+After 13570 steps, per token cost is 0.233
+After 13580 steps, per token cost is 0.277
+After 13590 steps, per token cost is 0.232
+In iteration: 198
+After 13600 steps, per token cost is 0.168
+After 13610 steps, per token cost is 0.194
+After 13620 steps, per token cost is 0.235
+After 13630 steps, per token cost is 0.232
+After 13640 steps, per token cost is 0.235
+After 13650 steps, per token cost is 0.262
+After 13660 steps, per token cost is 0.248
+In iteration: 199
+After 13670 steps, per token cost is 0.268
+After 13680 steps, per token cost is 0.270
+After 13690 steps, per token cost is 0.273
+After 13700 steps, per token cost is 0.239
+After 13710 steps, per token cost is 0.287
+After 13720 steps, per token cost is 0.247
+After 13730 steps, per token cost is 0.276
+In iteration: 200
+After 13740 steps, per token cost is 0.193
+After 13750 steps, per token cost is 0.226
+After 13760 steps, per token cost is 0.201
+After 13770 steps, per token cost is 0.234
+After 13780 steps, per token cost is 0.231
+After 13790 steps, per token cost is 0.266
