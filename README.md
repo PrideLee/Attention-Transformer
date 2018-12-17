@@ -64,8 +64,6 @@ Figure 2. Attention translation
 Figure 3. Transformer translation
 </center>
 
-
-
-
+More introduction about machine translation (Attention Mechanism and Transformer, etc.) please read my Notebook [Machine Translation](https://zhuanlan.zhihu.com/p/50915723), [Transformer](https://zhuanlan.zhihu.com/p/52242109).
 
 
