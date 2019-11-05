@@ -46,7 +46,7 @@ f- MAX_LEN = 50  # The maximum number of words in each setences.
 Figure 1. mean loss
 </center>
 
-From Figure 1. we can clearly see that comparing Attention, Transformer has converged after about 30 epochs, and the curve is smoother. In the experiment the traning time of Transformer is lesser (The motivation of Transformer is to overcome the shortage that Attention model is hard to parallel computation and need a long traning time). In this Figure, through the Attention loss is smaller than Transformer, but is contrary in actual situtation (more data).
+From Figure 1. we can clearly see that comparing with Attention, Transformer has converged after about 30 epochs, and the curve is smoother. In the experiment the traning time of Transformer is lesser (The motivation of Transformer is to overcome the shortage that Attention model is hard to parallel computation and need a long traning time). In this Figure, through the Attention loss is smaller than Transformer, but it is contrary in actual situtation (more data).
 
 We can also comparise the translation results of Attention and Transformer:
 
