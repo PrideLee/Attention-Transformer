@@ -1,6 +1,6 @@
 # Attention-Transformer
 Machine Translation（cn2en)
-This project is to reliazed the Machine Translation task based on [Attention mechainism](https://arxiv.org/abs/1409.0473) and [Transformer](https://arxiv.org/pdf/1706.03762.pdf). Considering the preformance of machine, we only select 6834 cn-en parallel corpora(6800s testing samples and 34s testing samples) to analysis the convergence of models and do not comprase the Blue score.
+This project is to reliazed the Machine Translation task based on [Attention mechainism](https://arxiv.org/abs/1409.0473) and [Transformer](https://arxiv.org/pdf/1706.03762.pdf). Considering the performance of machine, we only select 6834 cn-en parallel corpora(6800s testing samples and 34s testing samples) to analysis the convergence of models and do not comprase the Blue score.
 
 **More introduction about machine translation (Attention Mechanism and Transformer, etc.) please read my Notebook [Machine Translation](https://zhuanlan.zhihu.com/p/50915723), [Transformer](https://zhuanlan.zhihu.com/p/52242109).**
 
